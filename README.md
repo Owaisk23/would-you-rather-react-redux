@@ -12,3 +12,21 @@ Run following commands to start project
 * install project dependencies with `npm install`
 * start development server with `npm start` or `sudo npm start`
 * now open your browser and type url `localhost:3000`
+
+# Screen Shots
+
+## Login Page
+
+<img src="screenshots/login.png"  width="350">
+
+## Home Page
+
+<img src="screenshots/home.png"  width="350">
+
+## Leaderboard Page
+
+<img src="screenshots/leaderboard.png"  width="350">
+
+## New Question Page
+
+<img src="screenshots/newques.png"  width="350">
